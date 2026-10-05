@@ -1,15 +1,15 @@
 {
   "name": "Minecraftia",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://cdn.discordapp.com/attachments/1067495312299675828/1125126615693807768/Minecraftia-Regular.ttf",
-    "ABCGintoNord-Bold": "https://cdn.discordapp.com/attachments/1067495312299675828/1125126615693807768/Minecraftia-Regular.ttf",
-    "ggsans-Bold": "https://cdn.discordapp.com/attachments/1067495312299675828/1125126615693807768/Minecraftia-Regular.ttf",
-    "ggsans-BoldItalic": "https://cdn.discordapp.com/attachments/1067495312299675828/1125126615693807768/Minecraftia-Regular.ttf",
-    "ggsans-Medium": "https://cdn.discordapp.com/attachments/1067495312299675828/1125126615693807768/Minecraftia-Regular.ttf",
-    "ggsans-MediumItalic": "https://cdn.discordapp.com/attachments/1067495312299675828/1125126615693807768/Minecraftia-Regular.ttf",
-    "ggsans-Normal": "https://cdn.discordapp.com/attachments/1067495312299675828/1125126615693807768/Minecraftia-Regular.ttf",
-    "ggsans-NormalItalic": "https://cdn.discordapp.com/attachments/1067495312299675828/1125126615693807768/Minecraftia-Regular.ttf",
-    "ggsans-Semibold": "https://cdn.discordapp.com/attachments/1067495312299675828/1125126615693807768/Minecraftia-Regular.ttf",
-    "ggsans-SemiboldItalic": "https://cdn.discordapp.com/attachments/1067495312299675828/1125126615693807768/Minecraftia-Regular.ttf"
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/Schitzos/PokeQuest/b6c437b096e0364871683460d2768924433b702c/assets/fonts/Minecraftia-Regular.ttf",
+    "ABCGintoNord-Bold": "https://raw.githubusercontent.com/Schitzos/PokeQuest/b6c437b096e0364871683460d2768924433b702c/assets/fonts/Minecraftia-Regular.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/Schitzos/PokeQuest/b6c437b096e0364871683460d2768924433b702c/assets/fonts/Minecraftia-Regular.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/Schitzos/PokeQuest/b6c437b096e0364871683460d2768924433b702c/assets/fonts/Minecraftia-Regular.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/Schitzos/PokeQuest/b6c437b096e0364871683460d2768924433b702c/assets/fonts/Minecraftia-Regular.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/Schitzos/PokeQuest/b6c437b096e0364871683460d2768924433b702c/assets/fonts/Minecraftia-Regular.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/Schitzos/PokeQuest/b6c437b096e0364871683460d2768924433b702c/assets/fonts/Minecraftia-Regular.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/Schitzos/PokeQuest/b6c437b096e0364871683460d2768924433b702c/assets/fonts/Minecraftia-Regular.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/Schitzos/PokeQuest/b6c437b096e0364871683460d2768924433b702c/assets/fonts/Minecraftia-Regular.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/Schitzos/PokeQuest/b6c437b096e0364871683460d2768924433b702c/assets/fonts/Minecraftia-Regular.ttf"
   }
 }
